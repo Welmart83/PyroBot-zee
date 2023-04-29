@@ -1,4 +1,4 @@
 # Acquire credentials from https://my.telegram.org
 [pyrogram]
-api_id = 123456
-api_hash = 123456abcdef123456abcdef
+api_id = 18419151
+api_hash = ee497faeae20bc517e0b517ce0496533
